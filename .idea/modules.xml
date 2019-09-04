@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/client-archive.iml" filepath="$PROJECT_DIR$/.idea/client-archive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/client-history.iml" filepath="$PROJECT_DIR$/.idea/client-history.iml" />
     </modules>
   </component>
 </project>
